@@ -1,7 +1,7 @@
 {
   "events": [
     {
-      "id": 123,
+      "id": 1000,
       "category": "animal welfare",
       "title": "Cat Adoption Day",
       "description": "Find your new feline friend at this event.",
@@ -11,7 +11,7 @@
       "organizer": "Kat Laydee"
     },
     {
-      "id": 456,
+      "id": 1001,
       "category": "food",
       "title": "Community Gardening",
       "description": "Join us as we tend to the community edible plants.",
@@ -21,12 +21,32 @@
       "organizer": "Fern Pollin"
     },
     {
-      "id": 789,
+      "id": 1002,
+      "category": "feach",
+      "title": "Beach Party",
+      "description": "get fun",
+      "location": "Playa Del Carmen",
+      "date": "July 23, 2022",
+      "time": "11:00",
+      "organizer": "Carey Wales"
+    },
+     {
+      "id": 1003,
       "category": "sustainability",
       "title": "Beach Cleanup",
       "description": "Help pick up trash along the shore.",
       "location": "Playa Del Carmen",
       "date": "July 22, 2022",
+      "time": "11:00",
+      "organizer": "Carey Wales"
+    },
+     {
+      "id": 1003,
+      "category": "sport",
+      "title": "Volley",
+      "description": "play with friends.",
+      "location": "Playa Del Carmen",
+      "date": "July 24, 2022",
       "time": "11:00",
       "organizer": "Carey Wales"
     }
